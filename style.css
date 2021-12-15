@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: black;
+}
+.item{
+    position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: rgb(0, 0, 0, 0.5);
+	z-index: -1;
+}
+.back1{
+    background: url("img/img-1.jpg");
+}
+.back2{
+    background: url("img/img-2.jpg");
+}
+.back3{
+    background: url("img/img-4.jpg");
+}
+.carousel-item{
+    width: 1530px;
+    height: 720px;
+}
+.me{
+    width: 150px;
+    border-radius: 50%;
+}
+.names{
+    display: flex;
+    justify-content: space-between;
+    width: 68%;
+    margin: 0 auto;
+    padding-top: 180px;
+}
+.myName{
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+    margin-top: 10px;
+}
+.name-item{
+    text-align: center;
+    width: 25%;
+}
+.nameText{
+    font-size: 15px;
+    color: white;
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    padding-top: 300px;
+    font-size: 78px;
+}
