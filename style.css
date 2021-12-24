@@ -1,0 +1,147 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.main{
+    background-image: linear-gradient(to top, rgba(0,0,0,0.2), rgba(0,0,0,0.5)),url("img/img-3.jpg");
+    width: 1520px;
+    height: 720px;
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+.main p{
+    font-size: 77px;
+    text-align: center;
+    color: white;
+    
+}
+.mk{
+    width: 380px;
+    height: 380px;
+    margin-left: 570px;
+}
+
+
+.me{
+    width: 150px;
+    border-radius: 50%;
+}
+.dev{
+    background-image: linear-gradient(to top, rgba(0,0,0,0.2), rgba(0,0,0,0.5)),url("img/img-4.jpg");
+    width: 1520px;
+    height: 720px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.developers{
+    display: flex;
+    justify-content: space-between;
+    width: 68%;
+    margin: 0 auto;
+    padding-top: 180px;
+}
+.myName{
+    font-size: 35px;
+    color: white;
+    font-weight: 500;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+.sec{
+    text-align: center;
+    width: 25%;
+}
+.nameText{
+    font-size: 25px;
+    color: white;
+    font-weight: 500;
+    margin-top: 5px;
+}
+.trello{
+    background-image: linear-gradient(to top, rgba(0,0,0,0.2), rgba(0,0,0,0.5)),url("img/img-2.jpg");
+    width: 1520px;
+    height: 720px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.trello h1{
+    font-size: 60px;
+    text-align: center;
+    padding-top: 40px;
+    color: white;
+}
+.trello a{
+    color: black;
+    font-size: 40px;
+    padding-left: 610px;
+    color: white;
+    
+}
+.tech{
+    background-image: linear-gradient(to top, rgba(0,0,0,0.2), rgba(0,0,0,0.5)),url("img/img-1.jpg");
+    width: 1520px;
+    height: 720px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hcj{
+    width: 700px;
+    margin-left: 400px;
+}
+.tech h1{
+    text-align: center;
+    font-size: 60px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: white;
+}
+.bootstrap{
+    width: 300px;
+   
+}
+.jquery{
+    width: 300px;
+    
+}
+.tech{
+    display: block;
+}
+.b{
+    margin-left: 400px;
+}
+.host{
+    background-image: linear-gradient(to top, rgba(0,0,0,0.2), rgba(0,0,0,0.5)),url("img/img-5.jpg");
+    width: 1520px;
+    height: 720px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.host h1{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    padding-top: 40px;
+    
+}
+.host a{
+    color: black;
+    font-size: 40px;
+    padding-left: 630px;
+    color: white;
+}
+.site{
+    width: 900px;
+    height: 470px;
+    margin-left: 300px;
+    margin-top: 35px;
+    
+}
+.trello_img{
+    width: 800px;
+    height: 470px;
+    margin-left: 350px;
+    margin-top: 35px;
+
+}
